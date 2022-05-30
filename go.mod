@@ -1,4 +1,4 @@
-module github.com/takeyu1013/gotrading
+module gotrading
 
 go 1.18
 
